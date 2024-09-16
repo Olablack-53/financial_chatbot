@@ -1,2 +1,3 @@
-# financial_chatbot
-This repository contains the CSV financial data, financial analysis and reports conducted in Jupyter Notebook using Visual Studio Code. It also includes the financial chatbot prompt and documentation on how the chatbot was generated and converted into HTML files, which were used in the BCGX's Gen AI Virtual Job Simulation on Forage.
+#Data_Sources_and_Development:
+Financial Data: The chatbot was trained on financial data extracted from SEC EDGAR 10-K and 10-Q filings for US-based companies.
+Development: The chatbot was developed using Python, natural language processing libraries, pandas, ipywidgets, and Jupyter Notebook. The development process is documented in the documentation.pdf file.
